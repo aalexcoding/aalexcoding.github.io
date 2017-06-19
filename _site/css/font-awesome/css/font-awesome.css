@@ -11,6 +11,11 @@
   font-weight: normal;
   font-style: normal;
 }
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
 .fa {
   display: inline-block;
   font-family: FontAwesome;

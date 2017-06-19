@@ -4,15 +4,15 @@
   <generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-06-19T12:37:35+02:00</updated>
+  <updated>2017-06-19T13:55:18+02:00</updated>
   <id>http://localhost:4000/</id>
 
   
-    <title type="html">Freelancer</title>
+    <title type="html">Alex Delgado</title>
   
 
   
-    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+    <subtitle>Software Engineer with large experience developing apps for mobile devices. Skilled at operating in any range of platforms. Capable of quickly taking on new skills. Thrives on new intellectual challenges.</subtitle>
   
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Project 1</title>
-      <link href="http://localhost:4000/web%20development/2014/07/18/project-1/" rel="alternate" type="text/html" title="Project 1" />
-      <published>2014-07-18T00:00:00+02:00</published>
-      <updated>2014-07-18T00:00:00+02:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/18/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/18/project-1/"></content>
+      <link href="http://localhost:4000/ios%20development,%20swift/2017/06/18/project-1/" rel="alternate" type="text/html" title="Project 1" />
+      <published>2017-06-18T00:00:00+02:00</published>
+      <updated>2017-06-18T00:00:00+02:00</updated>
+      <id>http://localhost:4000/ios%20development,%20swift/2017/06/18/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/ios%20development,%20swift/2017/06/18/project-1/"></content>
 
       
       
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="iOS Development, Swift" />
       
 
       
