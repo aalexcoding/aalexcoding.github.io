@@ -1,60 +1,109 @@
-# Site settings
-title: Alex Delgado
-email: alejandrodelgadodiaz88@gmail.com
+# main text of home
+name: Alex Delgado
+bio: iOS Developer - NodeJS fan - Biker 
+
+# twitter summary info
+description: A blog about technology and stuff related
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: false
+resume-url: https://www.linkedin.com/in/alejandro-delgado-diaz-42a8b778/
+
 url: https://alexdelgadodiaz.github.io
-description: "Software Engineer with large experience developing apps for mobile devices. Skilled at operating in any range of platforms. Capable of quickly taking on new skills. Thrives on new intellectual challenges."
-keywords: "iOS Development, Swift, Objective-C, NodeJS"
-skills: "iOS Developer - NodeJS Fan - Best practices lover"
-meta_author: Delgado Diaz Alejandro
+# your url: http://USERNAME.github.io
 
-# Google webmaster tools
-google_verify:
+permalink: /:title/
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: mydisqus # enter this from your disqus account
+  categories: [blog] # only show disqus for posts that have these categories
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 373737	 #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: ab9a61 #FD6E8A
-  secondary-dark: 191919 #A2122F
+# if you don't have any of social below, comment the line
+# facebook: myfacebook
+twitter: Alex_delg
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: alejandro-delgado-diaz-42a8b778/
+# youtube: myyoutube
+# spotify: myspotify
+github: alexdelgadodiaz
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+email: alejandrodelgadodiaz88@gmail.com
 
-# Footer settings
-footer:
-  copyright: Alejandro Delgado Díaz
-  location: Location
-  social: Around the Web
-  # credits: Credits
+authors:
+    alexdelgado:
+        name: Alejandro Delgado
+        bio: iOS Developer - NodeJS fan - Biker
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: Alex_delg
+    # jamesfoster:
+    #     name: James Foster
+    #     bio: A Man who develops software with coffee
+    #     external-image: false
+    #     picture: assets/images/james.jpg
+    #     twitter: jamesfoster
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/Alex_delg
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/2226147/alex-delgado
-  - title: github
-    url: https://github.com/Alexdelgadodiaz
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: Almería
-  - line: (Spain)
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
 
-# Credits content
-# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# if you don't need projects, comment the *projects* configs below
+projects: true
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: false
 
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+jekyll-mentions:
+    base_url: https://github.com
