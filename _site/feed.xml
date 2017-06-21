@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-21T11:48:59+02:00</updated><id>http://localhost:4000/</id><title type="html">Alex Delgado</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">iOS Diputación de Almería</title><link href="http://localhost:4000/dipalme-app/" rel="alternate" type="text/html" title="iOS Diputación de Almería" /><published>2017-06-18T00:00:00+02:00</published><updated>2017-06-18T00:00:00+02:00</updated><id>http://localhost:4000/dipalme-app</id><content type="html" xml:base="http://localhost:4000/dipalme-app/">&lt;p&gt;&lt;img src=&quot;/assets/dipalme/webpicture.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-21T12:16:19+02:00</updated><id>http://localhost:4000/</id><title type="html">Alex Delgado</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">iOS Diputación de Almería</title><link href="http://localhost:4000/dipalme-app/" rel="alternate" type="text/html" title="iOS Diputación de Almería" /><published>2017-06-18T00:00:00+02:00</published><updated>2017-06-18T00:00:00+02:00</updated><id>http://localhost:4000/dipalme-app</id><content type="html" xml:base="http://localhost:4000/dipalme-app/">&lt;p&gt;&lt;img src=&quot;/assets/dipalme/webpicture.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a news App for Almería Province&lt;/p&gt;
 
@@ -17,7 +17,49 @@
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.apple.com&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;mailto:alejandrodelgadodiaz88@gmail.com&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>alexdelgado</name></author><category term="project" /><category term="iOS" /><category term="swift" /><category term="almeria" /><category term="news" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/dipalme/iconoDipalme.png" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+01:00</published><updated>2016-02-24T22:48:00+01:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+If you need some help, just &lt;a href=&quot;mailto:alejandrodelgadodiaz88@gmail.com&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>alexdelgado</name></author><category term="project" /><category term="iOS" /><category term="swift" /><category term="almeria" /><category term="news" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/dipalme/iconoDipalme.png" /></entry><entry><title type="html">IoT Domotic House Terminal</title><link href="http://localhost:4000/domotic-server-terminal-public/" rel="alternate" type="text/html" title="IoT Domotic House Terminal" /><published>2017-03-18T00:00:00+01:00</published><updated>2017-03-18T00:00:00+01:00</updated><id>http://localhost:4000/domotic-server-terminal-public</id><content type="html" xml:base="http://localhost:4000/domotic-server-terminal-public/">&lt;p&gt;This is a personal project done to have access to the control of my garage door from any device throught internet.&lt;/p&gt;
+
+&lt;p&gt;This side is situated at the door and conected to the server with Socket.IO. It recieves the pulse from the backend to open the door. The pulse has been authorited by the server previusly&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;How has it been done?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;NodeJS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Socket.IO&lt;/li&gt;
+  &lt;li&gt;Express 4&lt;/li&gt;
+  &lt;li&gt;Middlewares&lt;/li&gt;
+  &lt;li&gt;Raspberry PI&lt;/li&gt;
+  &lt;li&gt;Git&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Alexdelgadodiaz/domoticHouseTerminal&quot;&gt;Check it out&lt;/a&gt; here.
+If you need some help, just &lt;a href=&quot;mailto:alejandrodelgadodiaz88@gmail.com&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>alexdelgado</name></author><category term="project" /><category term="NodeJS" /><category term="backend" /><category term="IoT" /><category term="Raspberry Pi" /><summary type="html">This is a personal project done to have access to the control of my garage door from any device throught internet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/domotichouse/nodejs.png" /></entry><entry><title type="html">IoT Domotic House Server/Static Client</title><link href="http://localhost:4000/domotic-server-public/" rel="alternate" type="text/html" title="IoT Domotic House Server/Static Client" /><published>2017-03-18T00:00:00+01:00</published><updated>2017-03-18T00:00:00+01:00</updated><id>http://localhost:4000/domotic-server-public</id><content type="html" xml:base="http://localhost:4000/domotic-server-public/">&lt;p&gt;This is a personal project done to have access to the control of my garage door from any device throught internet.&lt;/p&gt;
+
+&lt;p&gt;This side works as a backend processing incoming calls to open the door. Also provides an static client from where the petitions can be done&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;How has it been done?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;NodeJS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Socket.IO&lt;/li&gt;
+  &lt;li&gt;Express 4&lt;/li&gt;
+  &lt;li&gt;Middlewares&lt;/li&gt;
+  &lt;li&gt;Raspberry PI&lt;/li&gt;
+  &lt;li&gt;Git&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Alexdelgadodiaz/domoticHouseServerWebClient&quot;&gt;Check it out&lt;/a&gt; here.
+If you need some help, just &lt;a href=&quot;mailto:alejandrodelgadodiaz88@gmail.com&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>alexdelgado</name></author><category term="project" /><category term="NodeJS" /><category term="backend" /><category term="frontend" /><category term="IoT" /><category term="Raspberry Pi" /><summary type="html">This is a personal project done to have access to the control of my garage door from any device throught internet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/domotichouse/nodejs.png" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+01:00</published><updated>2016-02-24T22:48:00+01:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 

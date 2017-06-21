@@ -41,8 +41,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 <h2>Freelance/Personal Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/Alexdelgadodiaz/domoticHouseServerWebClient">IoT Project - Domotic House Server/Static Client</a></li>
-	<li><a href="https://github.com/Alexdelgadodiaz/domoticHouseTerminal">IoT Project - Domotic House Terminal</a></li>
+	<li><a href="/domotic-server-public">IoT Project - Domotic House Server/Static Client</a></li>
+	<li><a href="/domotic-server-terminal-public">IoT Project - Domotic House Terminal</a></li>
 	<li><a href="/dipalme-app">iOS Diputación de Almería</a></li>
 	<li>iOS iLexicon</li>
 	<li>iOS SwiftNotes</li>
