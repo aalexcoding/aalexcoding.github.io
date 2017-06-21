@@ -1,6 +1,6 @@
 # main text of home
 name: Alex Delgado
-bio: iOS Developer - NodeJS fan - Biker 
+bio: iOS Developer - NodeJS fan - Biker
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: https://www.linkedin.com/in/alejandro-delgado-diaz-42a8b778/
+resume-url: assets/AlejandroDelgadoSpa.pdf
 
 url: https://alexdelgadodiaz.github.io
 # your url: http://USERNAME.github.io

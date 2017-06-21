@@ -43,7 +43,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 <ul>
 	<li><a href="https://github.com/Alexdelgadodiaz/domoticHouseServerWebClient">IoT Project - Domotic House Server/Static Client</a></li>
 	<li><a href="https://github.com/Alexdelgadodiaz/domoticHouseTerminal">IoT Project - Domotic House Terminal</a></li>
-	<li>iOS Diputación de Almería</li>
+	<li><a href="/dipalme-app">iOS Diputación de Almería</a></li>
 	<li>iOS iLexicon</li>
 	<li>iOS SwiftNotes</li>
 	<li>iOS SIFM Radio</li>
