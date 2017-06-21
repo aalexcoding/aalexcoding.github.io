@@ -1,0 +1,37 @@
+---
+title: "iOS SIFM Radio"
+layout: post
+date: 2015-06-18 00:00
+tag: 
+- iOS 
+- Objective-C 
+- almeria
+- Radio
+image: /assets/sifm/sifmicon.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a radio app for SIFM Radio Almería"
+category: project
+author: alexdelgado
+externalLink: false
+---
+
+![Screenshot](/assets/sifm/webpage.png)
+
+This is a radio app for SIFM Radio Almería
+
+---
+
+How has it been done?
+
+- Native iOS
+- Objective-C
+- Cocoapods
+- MVC
+- Git
+
+---
+
+[Check it out](http://www.apple.com) here.
+If you need some help, just [tell me](mailto:alejandrodelgadodiaz88@gmail.com).

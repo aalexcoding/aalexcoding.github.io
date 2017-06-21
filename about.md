@@ -8,6 +8,8 @@ layout: page
 Skilled at operating in anyrange of platforms. Capable of quickly taking on 
 new skills. Thrives on new intellectual challenges.</p>
 
+<p>Currently <b>Lead iOS Developer</b> at <a href="https://www.viewnext.com/">Viewnext</a></p>
+
 <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -44,9 +46,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 	<li><a href="/domotic-server-public">IoT Project - Domotic House Server/Static Client</a></li>
 	<li><a href="/domotic-server-terminal-public">IoT Project - Domotic House Terminal</a></li>
 	<li><a href="/dipalme-app">iOS Diputación de Almería</a></li>
+	<li><a href="/sifm-app">iOS SIFM Radio</a></li>
 	<li>iOS iLexicon</li>
 	<li>iOS SwiftNotes</li>
-	<li>iOS SIFM Radio</li>
 </ul>
 
 <h2>Involved in Projects</h2>
