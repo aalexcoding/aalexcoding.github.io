@@ -39,5 +39,5 @@ How has it been done?
 
 ---
 
-[Check it out](https://chrome.google.com/webstore/detail/smart-content®/kkfppjhfckfknlgaamnpaaghjkhghapf?hl=en-GB) here.
+Check it out [here](https://chrome.google.com/webstore/detail/smart-content®/kkfppjhfckfknlgaamnpaaghjkhghapf?hl=en-GB).
 If you need some help, just [tell me](mailto:alejandrodelgadodiaz88@gmail.com).

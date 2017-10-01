@@ -33,5 +33,5 @@ How has it been done?
 
 ---
 
-[Check it out](http://www.apple.com) here.
+Check it out [here] (http://www.apple.com).
 If you need some help, just [tell me](mailto:alejandrodelgadodiaz88@gmail.com).
