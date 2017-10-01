@@ -4,6 +4,7 @@ layout: post
 date: 2017-03-18 00:00
 tag: 
 - NodeJS 
+- JS
 - backend 
 - IoT
 - Raspberry Pi
@@ -35,5 +36,5 @@ How has it been done?
 
 ---
 
-[Check it out](https://github.com/Alexdelgadodiaz/domoticHouseTerminal) here.
+Check it out [here] (https://github.com/Alexdelgadodiaz/domoticHouseTerminal).
 If you need some help, just [tell me](mailto:alejandrodelgadodiaz88@gmail.com).

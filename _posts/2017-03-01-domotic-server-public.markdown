@@ -4,6 +4,7 @@ layout: post
 date: 2017-03-18 00:00
 tag: 
 - NodeJS 
+- JS
 - backend 
 - frontend
 - IoT
@@ -36,5 +37,5 @@ How has it been done?
 
 ---
 
-[Check it out](https://github.com/Alexdelgadodiaz/domoticHouseServerWebClient) here.
+Check it out [here] (https://github.com/Alexdelgadodiaz/domoticHouseServerWebClient).
 If you need some help, just [tell me](mailto:alejandrodelgadodiaz88@gmail.com).
