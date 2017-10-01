@@ -1,5 +1,5 @@
 ---
-title: "SmartContent Chrome App"
+title: "Chrome App SmartContent"
 layout: post
 date: 2017-09-20 00:00
 tag: 
