@@ -18,7 +18,7 @@ author: alexdelgado
 externalLink: false
 ---
 
-![Screenshot](/assets/vaccineapp/webViewVaccine.png)
+![Screenshot](/assets/vaccineapp/webviewVaccine.png)
 
 Children need vaccines for a range of different diseases and at very specific ages and intervals. Schools and governments require proof of these vaccines on official cards which are often misplaced. The Vaccine App manages this schedule effortlessly and officially.  You will receive reminders 2 weeks before the immunisation is due and your health care provider will digitally sign the app giving you an official record you will never lose again.
 A PDF option to print your official vaccine record is included.
