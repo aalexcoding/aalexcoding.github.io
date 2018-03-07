@@ -4,11 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Software Engineer with large experience developing apps for mobile devices. 
-Skilled at operating in anyrange of platforms. Capable of quickly taking on 
-new skills. Thrives on new intellectual challenges.</p>
+<p>Software Engineer with large experience developing apps for mobile devices 
+and backend services. Skilled at operating in anyrange of platforms. Capable 
+of quickly taking on new skills. Thrives on new intellectual challenges.</p>
 
-<p>Currently <b>Lead iOS Developer</b> at <a href="https://www.viewnext.com/">Viewnext</a></p>
+<!-- <p>Currently <b>Lead iOS Developer & Co-Founder</b> at <a href="http://www.nullysoft.com/">NullySoft</a></p> -->
+<p>Currently <b>Freelance iOS & NodeJS Developer</b></p>
 
 <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -27,7 +28,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Cordova Development</li>
 	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
+	<!-- <li>CSS (Stylus, Sass, Less)</li> -->
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<!--<li>AngularJS - ReactJS</li>-->
 	<li>Grunt - Gulp - Yeoman</li>
@@ -40,15 +41,18 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 	<li>Internet of Things</li>
 </ul>
 
-<h2>Freelance/Personal Projects</h2>
+<h2>Freelance Projects</h2>
 
 <ul>
+	<li><a href="/vaccine-app">iOS The Vaccine App</a></li>
+	<li><a href="/vaccine-app-server">NodeJS The Vaccine App Server</a></li>
+	<li><a href="/smartContent">Chrome App SmartContent</a></li>
 	<li><a href="/domotic-server-public">IoT Project - Domotic House Server/Static Client</a></li>
 	<li><a href="/domotic-server-terminal-public">IoT Project - Domotic House Terminal</a></li>
 	<li><a href="/dipalme-app">iOS Diputación de Almería</a></li>
 	<li><a href="/sifm-app">iOS SIFM Radio</a></li>
-	<li>iOS iLexicon</li>
-	<li>iOS SwiftNotes</li>
+	<li>iOS iLexicon (discontinued)</li>
+	<li>iOS SwiftNotes (discontinued)</li>
 </ul>
 
 <h2>Involved in Projects</h2>
