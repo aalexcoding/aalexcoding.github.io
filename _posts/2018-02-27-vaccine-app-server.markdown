@@ -6,6 +6,9 @@ tag:
 - NodeJS 
 - JS
 - backend 
+- international
+- vaccines
+- CleanCode
 image: /assets/domotichouse/nodejs.png
 headerImage: true
 projects: true
