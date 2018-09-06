@@ -1,0 +1,41 @@
+---
+title: "iOS Spurs Go"
+layout: post
+date: 2018-06-27 00:00
+tag: 
+- iOS
+- objective-c
+- premierLeague
+- CleanCode
+image: /assets/spursGo/icon.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Tottenham Hotspur proudly presents Spurs Go, the brand new official Tottenham Hotspur app for fans worldwide"
+category: project
+author: alexdelgado
+externalLink: false
+---
+
+![Screenshot](/assets/spursGo/webviewSpurs.png)
+
+Whether at the match, at home or on the move, Spurs Go is fully optimised for smartphones and tablets to provide an immersive and interactive fan experience. Free to download Spurs Go has a range of new and exciting features to keep you up to date and entertained while you’re on the move. 
+
+
+Done as part of the developer team of "OneUp Sports"
+
+---
+
+How has it been done?
+
+- Native iOS
+- Objective-C
+- Cocoapods
+- MVC
+- Modular
+- Git
+
+---
+
+Check it out [here](https://itunes.apple.com/es/app/spurs-go/id490601171?l=en&mt=8).
+If you need some help, just [tell me](mailto:alejandrodelgadodiaz88@gmail.com).
