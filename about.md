@@ -9,7 +9,7 @@ and backend services. Skilled at operating in anyrange of platforms. Capable
 of quickly taking on new skills. Thrives on new intellectual challenges.</p>
 
 <!-- <p>Currently <b>Lead iOS Developer & Co-Founder</b> at <a href="http://www.nullysoft.com/">NullySoft</a></p> -->
-<p>Currently: <b>Senior iOS Developer at Indra (Wefferent-Cajamar project) - Freelance iOS & NodeJS Developer</b></p>
+<p>Currently: <b>Tech Lead iOS Developer at Intelinova Software (Trainingym) - Freelance iOS & NodeJS Developer</b></p>
 
 <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -45,16 +45,16 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 <h2>Freelance Projects</h2>
 
 <ul>
+	<li><a href="/roquetas-de-mar">iOS Turismo Roquetas de Mar</a></li>
+	<li><a href="/dipalme-app">iOS Diputación de Almería</a></li>
+	<li><a href="/visit-centroamerica">iOS Visit Centroamérica</a></li>
 	<li><a href="/vaccine-app">iOS The Vaccine App</a></li>
 	<li><a href="/vaccine-app-server">NodeJS The Vaccine App Server</a></li>
 	<li><a href="/smartContent">Chrome App SmartContent</a></li>
 	<li><a href="/domotic-server-public">IoT Project - Domotic House Server/Static Client</a></li>
 	<li><a href="/domotic-server-terminal-public">IoT Project - Domotic House Terminal</a></li>
-	<li><a href="/dipalme-app">iOS Diputación de Almería</a></li>
-	<li><a href="/sifm-app">iOS SIFM Radio</a></li>
-	<li><a href="/visit-centroamerica">iOS Visit Centroamérica</a></li>
 	<li><a href="/conclave">iOS Conclave</a></li>
-	<li><a href="/roquetas-de-mar">iOS Turismo Roquetas de Mar</a></li>
+	<li><a href="/sifm-app">iOS SIFM Radio (discontinued)</a></li>
 	<li>iOS iLexicon (discontinued)</li>
 	<li>iOS SwiftNotes (discontinued)</li>
 </ul>
