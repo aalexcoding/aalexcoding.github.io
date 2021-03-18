@@ -22,7 +22,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 
 <ul class="skill-list">
 	<li>iOS Development</li>
-	<li>Objective-C - Swift 4</li>
+	<li>Objective-C - Swift 5</li>
+	<li>UIKit - SwiftUI</li>
 	<li>NodeJS</li>
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>HTML - Jade - Haml - Erb</li>
