@@ -63,9 +63,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 
 <ul>
 	<li><a href="https://itunes.apple.com/es/app/trainingym/id598249672?mt=8">Trainingym</a></li>
-	<li><a href="https://itunes.apple.com/es/app/wefferent-cajamar/id1218170094?mt=8">iOS Wefferent Cajamar</a></li>
-	<li><a href="https://itunes.apple.com/gb/app/spurs-go/id490601171?mt=8">iOS Spurs Go</a></li>
-	<li><a href="https://bizum.es/">iOS Bizum Apps</a> Kutxabank, Cajasur, LaboralKutxa</li>
-	<li><a href="https://itunes.apple.com/es/app/madrid-xanad%C3%BA/id1070194533?mt=8">iOS Madrid Xanadu</a></li>
+	<li><a href="https://itunes.apple.com/es/app/wefferent-cajamar/id1218170094?mt=8">Wefferent Cajamar</a></li>
+	<li><a href="https://itunes.apple.com/gb/app/spurs-go/id490601171?mt=8">Spurs Go</a></li>
+	<li><a href="https://bizum.es/">Bizum Apps</a> Kutxabank, Cajasur, LaboralKutxa</li>
+	<li><a href="https://itunes.apple.com/es/app/madrid-xanad%C3%BA/id1070194533?mt=8">Madrid Xanadu</a></li>
 
 </ul>
