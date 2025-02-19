@@ -1,6 +1,6 @@
 # main text of home
 name: Alex Delgado
-bio: iOS Developer - NodeJS fan - Biker
+bio: Lead iOS Engineer - DevOps - Biker
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -15,7 +15,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/AlejandroDelgadoSpa.pdf
+resume-url: assets/Resume2025_v3.pdf
 
 url: https://alexdelgadodiaz.github.io
 # your url: http://USERNAME.github.io
@@ -36,11 +36,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: Alex_delg
+# twitter: Alex_delg
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: alejandro-delgado-diaz-42a8b778/
+linkedin: alejandro-d-42a8b778/
 # youtube: myyoutube
 # spotify: myspotify
 github: alexdelgadodiaz
@@ -55,13 +55,13 @@ email: alejandrodelgadodiaz88@gmail.com
 authors:
     alexdelgado:
         name: Alejandro Delgado
-        bio: iOS Developer - NodeJS fan - Biker
+        bio: Lead iOS Engineer - DevOps - Biker
         external-image: false
         picture: assets/images/profile.png
-        twitter: Alex_delg
+        #twitter: Alex_delg
     # jamesfoster:
     #     name: James Foster
-    #     bio: A Man who develops software with coffee
+        #bio: A Man who develops software with coffee
     #     external-image: false
     #     picture: assets/images/james.jpg
     #     twitter: jamesfoster
@@ -100,7 +100,7 @@ show-author: true
 # do you want some animations?
 animation: true
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed

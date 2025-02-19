@@ -9,7 +9,7 @@ and backend services. Skilled at operating in anyrange of platforms. Capable
 of quickly taking on new skills. Thrives on new intellectual challenges.</p>
 
 <!-- <p>Currently <b>Lead iOS Developer & Co-Founder</b> at <a href="http://www.nullysoft.com/">NullySoft</a></p> -->
-<p>Currently: <b>Tech Lead iOS Developer at Intelinova Software (Trainingym) - Freelance iOS & NodeJS Developer</b></p>
+<p>Currently: <b>Tech Lead iOS Engineer & DevOps</b></p>
 
 <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -22,8 +22,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 
 <ul class="skill-list">
 	<li>iOS Development</li>
-	<li>Objective-C - Swift 5</li>
+	<li>Objective-C - Swift</li>
 	<li>UIKit - SwiftUI</li>
+	<li>CI/CD - Fastlane</li>
+	<li>GitHub Actions</li>
 	<li>NodeJS</li>
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>HTML - Jade - Haml - Erb</li>
@@ -35,7 +37,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
 	<!--<li>PHP</li>-->
-	<!--<li>Python</li>-->
+	<li>Python</li>
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
 	<li>TDD, Continuous Integration</li>
