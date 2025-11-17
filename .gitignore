@@ -1,4 +1,38 @@
-_site
-.sass-cache
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+
+# --- Jekyll ---
+# Archivos generados por Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-Gemfile.lock
+
+# Archivos temporales
+.tmp/
+
+# Archivos de configuración locales
+_config.local.yml
+_config.dev.yml
+.jekyll-*
+
+# --- Sistema / Editor ---
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
