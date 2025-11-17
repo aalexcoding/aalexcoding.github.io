@@ -67,12 +67,15 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
 <ul class="skill-list">
 	<li>Clean Architecture</li>
 	<li>SOLID Principles</li>
+	<li>MVC, MVVM, VIPER</li>
+	<li>Modularization</li>
 </ul>
 
 <h3>Team & Delivery</h3>
 <ul class="skill-list">
 	<li>Scrum and Kanban</li>
 	<li>TDD, Continuous Integration</li>
+	<li>GTS</li>
 </ul>
 
 <h3>Emerging Technologies</h3>
