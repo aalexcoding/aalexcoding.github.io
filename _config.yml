@@ -15,7 +15,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/Resume2025_v3.pdf
+resume-url: assets/Resume2025_v4.pdf
 
 url: https://alexdelgadodiaz.github.io
 # your url: http://USERNAME.github.io
@@ -55,7 +55,7 @@ email: alejandrodelgadodiaz88@gmail.com
 authors:
     alexdelgado:
         name: Alejandro Delgado
-        bio: Lead iOS Engineer - DevOps - Biker
+        bio: Software Engineer
         external-image: false
         picture: assets/images/profile.png
         #twitter: Alex_delg
