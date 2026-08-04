@@ -18,7 +18,7 @@ resume: true
 resume-external: false
 resume-url: assets/Resume2025_v4.pdf
 
-url: https://alexdelgadodiaz.github.io
+url: https://aalexcoding.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -44,7 +44,7 @@ disqus:
 linkedin: alejandro-d-42a8b778/
 # youtube: myyoutube
 # spotify: myspotify
-github: alexdelgadodiaz
+github: aalexcoding
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
