@@ -2,8 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
-
 <p>Software Engineer with large experience developing front-end solutions 
 and backend services. Skilled at operating in any range of platforms. Capable 
 of quickly taking on new skills. Thrives on new intellectual challenges.</p>

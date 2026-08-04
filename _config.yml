@@ -7,8 +7,9 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
+# leave `picture` empty to render the header without any photo
 external-image: false
-picture: assets/images/profile.png
+picture:
 
 
 # If you want to include your resume, set to true
@@ -57,13 +58,13 @@ authors:
         name: Alejandro Delgado
         bio: Software Engineer
         external-image: false
-        picture: assets/images/profile.png
+        picture:
         #twitter: Alex_delg
     # jamesfoster:
     #     name: James Foster
         #bio: A Man who develops software with coffee
     #     external-image: false
-    #     picture: assets/images/james.jpg
+    #     picture:
     #     twitter: jamesfoster
 
 # do you want a larger site? change the option below

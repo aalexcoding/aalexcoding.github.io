@@ -66,6 +66,15 @@
         @media #{$tablet}
             width: 78%
 
+    // no author photo: the text block takes the full row
+    > .toright.full
+        width: 100%
+
+        > .name,
+        > .bio
+            width: 100%
+            display: block
+
 .no-disqus
     border-bottom: none
     padding-bottom: 0
