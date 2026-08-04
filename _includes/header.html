@@ -16,6 +16,8 @@
                     <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
                 </span>
             {% endif %}
+        {% else %}
+            {% include terminal.html %}
         {% endif %}
 
         <h1 class="title">{{ site.name }}</h1>

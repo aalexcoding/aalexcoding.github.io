@@ -1,0 +1,147 @@
+// Terminal window shown on the home header, where the profile photo used to be.
+// Static by default; the typing animation is layered on top only when
+// `animation: true` in _config.yml and the visitor allows motion.
+
+$terminalBg: #1d1f21
+$terminalBar: #2c2f31
+$terminalText: #e8e8e8
+$terminalDim: #8a8f93
+$terminalAccent: #7cc36e
+$terminalError: #e06c60
+
+.terminal
+    width: fit-content
+    max-width: 100%
+    margin: 0 auto 30px
+    text-align: left
+    border-radius: 6px
+    overflow: hidden
+    background: $terminalBg
+    box-shadow: 0 1px 3px rgba(0,0,0,.16), 0 6px 20px rgba(0,0,0,.14)
+    font-family: $fontMonospace
+    font-size: clamp(.72rem, 2.55vw, 1.06rem)
+    line-height: 1.65
+
+    > .bar
+        display: flex
+        align-items: center
+        padding: 8px 12px
+        background: $terminalBar
+
+        > .dot
+            width: 11px
+            height: 11px
+            margin-right: 6px
+            border-radius: 100%
+            flex: none
+
+            &:nth-child(1)
+                background: #ff5f57
+            &:nth-child(2)
+                background: #febc2e
+            &:nth-child(3)
+                background: #28c840
+
+        > .name
+            margin-left: 6px
+            color: $terminalDim
+            font-size: .92em
+            letter-spacing: .02em
+
+    > .body
+        margin: 0
+        padding: 14px 18px 16px
+        color: $terminalText
+        background: none
+        border: none
+        overflow-x: auto
+        white-space: pre
+
+        .prompt
+            color: $terminalAccent
+
+        .out
+            color: $terminalDim
+
+        .err
+            color: $terminalError
+
+        .caret
+            display: inline-block
+            width: .6em
+            height: 1.05em
+            vertical-align: text-bottom
+            background: $terminalText
+
+// -- animation ---------------------------------------------------------------
+// Each line fades in on its cue; the two commands type themselves out by
+// growing from 0 to their exact character count.
+
+@keyframes terminal-reveal
+    to
+        opacity: 1
+
+@keyframes terminal-blink
+    50%
+        opacity: 0
+
+@keyframes terminal-type-a
+    from
+        width: 0
+    to
+        width: 15ch
+
+@keyframes terminal-type-b
+    from
+        width: 0
+    to
+        width: 20ch
+
+.terminal.is-animated
+    > .body
+
+        .line
+            opacity: 0
+            animation: terminal-reveal 1ms linear forwards
+
+            &:nth-child(1)
+                animation-delay: 0s
+            &:nth-child(2)
+                animation-delay: 1.5s
+            &:nth-child(3)
+                animation-delay: 2s
+            &:nth-child(4)
+                animation-delay: 4s
+            &:nth-child(5)
+                animation-delay: 4.5s
+
+        .cmd
+            display: inline-block
+            overflow: hidden
+            white-space: nowrap
+            vertical-align: bottom
+            width: 0
+
+        .cmd-a
+            animation: terminal-type-a .9s steps(15, end) .25s forwards
+
+        .cmd-b
+            animation: terminal-type-b 1.2s steps(20, end) 2.2s forwards
+
+        .caret
+            opacity: 0
+            animation: terminal-reveal 1ms linear 4.5s forwards, terminal-blink 1.05s step-end 4.5s infinite
+
+// Visitors who ask for less motion get the finished frame, not a blank box.
+@media (prefers-reduced-motion: reduce)
+    .terminal.is-animated
+        > .body
+
+            .line,
+            .caret
+                opacity: 1
+                animation: none
+
+            .cmd
+                width: auto
+                animation: none
