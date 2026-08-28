@@ -1,6 +1,6 @@
 # main text of home
 name: Alex Delgado
-bio: Lead iOS Engineer - DevOps - Biker
+bio: Software Engineer · DevOps · Platform Engineer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ picture:
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/Resume2025_v4.pdf
+resume-url: assets/Alejandro_Delgado_CV_2026.pdf
 
 url: https://aalexcoding.github.io
 # your url: http://USERNAME.github.io
